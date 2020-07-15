@@ -1,24 +1,22 @@
 # **Women of Osca Open Source  Challenge**
 
 Women of OSCA open-source challenge by [She Code Africa](https://www.shecodeafrica.org/) and [Open Source community Africa](https://www.oscafrica.org/) aims to promote a more 
-
 diverse, inclusive and innovative culture within the African open source ecosystem. 
+<br>
 
 To participate in the WOSCA open-source challenge, simply register [**here**](https://bit.ly/wosca-challenge) (if you’ve not already done that), a confirmation 
-
 mail will be sent to you containing details of the challenge and how to record your contributions.
+<br>
 
 We understand that there are alot of open source projects out there, and it could get really overwhelming finding a project to 
-
 contribute to, that matches your interests, background and even skill set 😕. 
-
 With that in mind, we’ve come up with a list of some open source projects below containing information like Stack, skill 
-
 level required to contribute to the project and some additional resources to ease your search in finding a project to 
-
 contribute to 😇. 
+<br>
 
 *Please keep in mind that you are also free to contribute to open source projects outside this list.*
+<br>
 
 ***LET'S DO THIS LADIES*** 💪
 
