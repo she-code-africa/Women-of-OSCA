@@ -52,6 +52,14 @@ Intermediate</td>
     <td>Beginner</td>
   </tr>
   <tr>
+    <td>Meshery.io</td>
+    <td>Meshery is the multi-service mesh management plane offering lifecycle, configuration and performance management of service meshes and their workloads.</td>
+    <td>https://github.com/layer5io/meshery</td>
+    <td>Javascript, HTML, Markdown, Go, Documentation</td>
+    <td>Beginner
+    Intermediate</td>
+  </tr>
+  <tr>
     <td>Rasa </td>
     <td>A machine-learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants</td>
     <td>https://github.com/orgs/RasaHQ/projects/23</td>
