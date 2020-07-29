@@ -189,7 +189,7 @@ Intermediate</td>
   <tr>
     <td>Drupal</td>
     <td>Drupal is a content management platform powering millions of websites and applications.</td>
-    <td>https://git.drupalcode.org/project/drupal</td>
+    <td>https://www.drupal.org/community#contribute-code</td>
     <td>CMS, PHP, Documentation, CSS, User Interface</td>
     <td>Beginner
 Intermediate
