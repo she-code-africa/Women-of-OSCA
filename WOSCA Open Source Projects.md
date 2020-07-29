@@ -320,6 +320,13 @@ Expert</td>
 Intermediate
 Expert</td>
   </tr>
+  <tr>
+    <td>Zero to Mastery</td>
+    <td>A hands-on tutorial playground to practice contributing to projects. There are other projects you can join and create with your fellow student to help gain real world experience "working in teams".</td>
+    <td>https://github.com/zero-to-mastery/start-here-guidelines</td>
+    <td>Any Stack</td>
+    <td>Beginner</td>
+ </tr>
 </table>
 
 
