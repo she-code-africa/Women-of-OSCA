@@ -1,4 +1,4 @@
-## **Women of Open Source Community Africa - WOSCA**
+![Wosca Image](./Women%20Of%20Open%20Source%20Communtiy%20Africa%20(WOSCA).png)
 
 Women of OSCA open-source challenge by [She Code Africa](https://www.shecodeafrica.org/) and [Open Source community Africa](https://www.oscafrica.org/) aims to promote a more 
 diverse, inclusive and innovative culture within the African open source ecosystem.  
