@@ -11,7 +11,7 @@ To learn more about WOSCA and upcoming open source intiatives, join our communit
 
 You can also submit your questions to [Info@shecodeafrica.org](mailto:Info@shecodeafrica.org) or [info@oscafrica.org](mailto:info@oscafrica.org) and we’ll be happy to answer them.
 
-### Contributing
+## Contributing
 Contribute to this project by updating the open source projects table in the [WOSCA Open Source Projects.md](WOSCA-Open-Source-Projects.md) file. For details on how to achieve this, refer to the contribution guidelines for this project [here](CONTRIBUTION.md)
 
 
