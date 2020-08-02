@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" height="420" src="./Women%20Of%20Open%20Source%20Communtiy%20Africa%20(WOSCA).png">
+  <img width="800" height="420" src="./images/wosca.png">
 </p>
 
 

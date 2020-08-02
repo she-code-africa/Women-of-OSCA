@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" height="420" src="/Wosca_os_challenge.png">
+  <img width="800" height="420" src="./images/wosca_os_challenge.png">
 </p>
 
 | WARNING:  **This event is over**, thanks a lot to all contributors and participants! Cheers!!! |
