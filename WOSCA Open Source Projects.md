@@ -1,6 +1,6 @@
 # **Women of Osca Open Source Projects**
 
-| WARNING:  **The WOSCA OS Challenge is over**, thanks a lot to all contributors who participated in the challenge! Feel free to keep contributing to open source projects in this list |
+| The WOSCA Open Source Challenge is over, thanks a lot to all contributors who participated in the challenge! Feel free to keep contributing to open source projects in this list. Cheers!!! |
 | --- |
 
 Women of OSCA by [She Code Africa](https://www.shecodeafrica.org/) and [Open Source community Africa](https://www.oscafrica.org/) aims to promote a more 
