@@ -12,7 +12,7 @@ Women of OSCA open-source challenge by She Code Africa and Open Source community
 To participate in this challenge, ladies were required to register and record all open source contributions/pull requests in the month of July to stand a chance of winning a ***1year domain subscription***.
 
 ## Results
-We recorded a total of 389 Registrations. [18 participants](#Contributors) submitted 46 pull requests to different open source organizations like  with . We also had ladies among them who recorded their first pull request following the [Submitting your first pull request](https://docs.google.com/presentation/d/1o_WLdAGjm5oyqza8hTSRTzPNAodVFWmNMSli98J488I/edit?usp=sharing) guide. 
+We recorded a total of 389 Registrations. [18 participants](#Contributors) submitted 46 pull requests to different open source organizations. We also had ladies among them who recorded their first pull request following the [Submitting your first pull request](https://docs.google.com/presentation/d/1o_WLdAGjm5oyqza8hTSRTzPNAodVFWmNMSli98J488I/edit?usp=sharing) guide. 
 
 
 ## Contributors
