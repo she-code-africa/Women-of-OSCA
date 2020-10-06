@@ -311,13 +311,12 @@ Intermediate
 Expert</td>
   </tr>
 <tr>
-    <td>IPL-Analysis</td>
+   <td>IPL-Analysis</td>
     <td>Indian Premier League dataset Analysis and visualization</td>
     <td>https://github.com/Team-thedatatribune/IPL-Analysis</td>
     <td>Python</td>
     <td>Intermediate</td>
   </tr>
-
 </table>
 
 
