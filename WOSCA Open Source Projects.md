@@ -310,15 +310,14 @@ Expert</td>
 Intermediate
 Expert</td>
   </tr>
-  <tr>
-    <td>Chronos</td>
-    <td>Desktop client for JIRA. Track time, upload worklogs without a hassle</td>
-    <td>https://github.com/web-pal/chronos-timetracker</td>
-    <td>JavaScript, Jira, </td>
-    <td>Beginner
-Intermediate
-Expert</td>
+<tr>
+    <td>IPL-Analysis</td>
+    <td>Indian Premier League dataset Analysis and visualization</td>
+    <td>https://github.com/Team-thedatatribune/IPL-Analysis</td>
+    <td>Python</td>
+    <td>Intermediate</td>
   </tr>
+
 </table>
 
 
