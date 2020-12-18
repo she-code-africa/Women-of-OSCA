@@ -6,10 +6,18 @@
 | --- |
 
 ## About the event
-Women of OSCA open-source challenge by She Code Africa and Open Source community Africa was held in the month of July 2020. The aim of this initiative was to promote a more      diverse, inclusive and innovative culture within the African open source ecosystem.
+Women of OSCA open-source challenge by She Code Africa and Open Source community Africa was held in the month of July 2020. The aim of this challenge was to get more ladies within Africa to actively contribute to open source projects by providing them with resources to help on their open-source journey, giving out prizes to the top contributors at the end of the challenge and recognising the efforts of participants to motivate them to contribute more.
 
+## Breakdown
 
-To participate in this challenge, ladies were required to register and record all open source contributions/pull requests in the month of July to stand a chance of winning a ***1year domain subscription***.
+***Duration: 1st of July 2020 - 31st of July 2020***
+
+### Process 
+1. Participants registered [here](https://docs.google.com/forms/d/1ecvDSeN9POx36Uu2X3o1x7i7G8ErQpkSoh4M73YkBmU/edit?usp=sharing) to kick off participation in the Challenge.
+2. A follow-up mail was sent explaining the details of the challenge and the link to the [contribution form](https://docs.google.com/forms/d/1EJMMH1c9ogCM1CsTghz5VDOEb6tgZpYNpvn6BCJkUas/edit?usp=sharing) to record open source contributions merged in the month of July.
+3. Contributors worked on issues, successfully submitted pull requests to several organisations including Anita Borg, Django, Gnome, all the way to our internal technical projects at She Code Africa, which were all approved and merged.
+4. Contributors recorded all successfully merged pull requests on the contribution form, after which recorded contributions were reviewed, and results announced.
+
 
 ## Results
 We recorded a total of 389 Registrations. [18 participants](#Contributors) submitted 46 pull requests to different open source organizations. We also had ladies among them who recorded their first pull request following the [Submitting your first pull request](https://docs.google.com/presentation/d/1o_WLdAGjm5oyqza8hTSRTzPNAodVFWmNMSli98J488I/edit?usp=sharing) guide. 
@@ -49,7 +57,206 @@ We recorded a total of 389 Registrations. [18 participants](#Contributors) submi
 </table>
 
 
-## Resources
+## Resources Provided
 
-* [Women of OSCA Open Source Projects List](https://github.com/she-code-africa/Women-of-OSCA/blob/master/WOSCA%20Open%20Source%20Projects.md)
-* [Submitting your first pull request](https://docs.google.com/presentation/d/1o_WLdAGjm5oyqza8hTSRTzPNAodVFWmNMSli98J488I/edit?usp=sharing)
+*   [A step-by-step guide to submitting your first pull request](https://docs.google.com/presentation/d/1o_WLdAGjm5oyqza8hTSRTzPNAodVFWmNMSli98J488I/edit?usp=sharing)
+*   [Women of OSCA Open Source Projects List](https://github.com/she-code-africa/Women-of-OSCA/blob/master/WOSCA%20Open%20Source%20Projects.md)
+*   Internal projects for contributors to collaborate on and record contributions
+
+
+## Impact on Participants / Growth Curve
+
+70% of pull requests submitted during the challenge were either from first-time contributors who had no prior experience contributing to open source or contributors who submitted their first pull request during the wosca launch event. 
+
+Here are some feedbacks from some participants on their key takeaway from the challenge:
+
+*   _“Participating in WOSCA has earned me recognition and an invitation to join the Layer5io organisation, also I am added as a Manager coordinating Igbo language of the Django team and an Igbo Localization Proofreader of the Django Girls project.” - **Kelechi Precious Nwachukwu**_
+*   _“This challenge prompted me to search for open source projects to contribute to, despite the difficulties, I still continued.” - **Ruth Ikegah**_
+*   _“This is my first time getting involved in open source at first I was skeptical about it but then I decided to give it a trial. My Key takeaway is that I have learned and become more interested and open to contributing to open source.” - **Wekwa Victory Chiamaka**_
+*   _“I can't believe that becoming an open sourcerer is this easy & super simple when one follows the contribution guide. I learnt so much in this short span of time that all my earlier fears were for nothing.” - **Peace Oluchi Onyekachi**_
+*   _“I’m glad I was introduced to open source and will continue learning and contributing.” - **Ijeoma Emeruwa**_
+
+## Impact on Open Source organizations
+
+Open Source organizations like Layer5.io, Django, First Contributions, Public Lab, etc welcomed new community members and had issues on Documentation, Bug Fixes, Testing, Pending updates and features improvements closed during the challenge.
+
+Find below a list of Open Source Organizations with the number of pull request submitted to each:
+
+<table>
+  <tr>
+   <td><strong>S/N</strong>
+   </td>
+   <td><strong>Open Source Organization</strong>
+   </td>
+   <td><strong>No of Pull Requests</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>1
+   </td>
+   <td><a href="https://github.com/layer5io">Layer5.io</a>
+   </td>
+   <td>13
+   </td>
+  </tr>
+  <tr>
+   <td>2
+   </td>
+   <td><a href="https://github.com/firstcontributions/first-contributions">First Contributions</a>
+   </td>
+   <td>7
+   </td>
+  </tr>
+  <tr>
+   <td>3
+   </td>
+   <td><a href="https://github.com/osmlab">OSMLab</a>
+   </td>
+   <td>3
+   </td>
+  </tr>
+  <tr>
+   <td>4
+   </td>
+   <td><a href="https://gitlab.gnome.org/">GNOME</a>
+   </td>
+   <td>3
+   </td>
+  </tr>
+  <tr>
+   <td>5
+   </td>
+   <td><a href="https://github.com/she-code-africa/WOSCA-book-gallery-api">WOSCA-book-gallery-api</a>
+   </td>
+   <td>2
+   </td>
+  </tr>
+  <tr>
+   <td>6
+   </td>
+   <td><a href="https://github.com/NishkarshRaj/100DaysofMLCode">100DaysofMLCode</a>
+   </td>
+   <td>2
+   </td>
+  </tr>
+  <tr>
+   <td>7
+   </td>
+   <td><a href="https://github.com/zero-to-mastery">Zero to Mastery (ZTM)</a>
+   </td>
+   <td>2
+   </td>
+  </tr>
+  <tr>
+   <td>8
+   </td>
+   <td><a href="https://github.com/Azure-Samples/azure-python-labs">MS Azure</a>
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>9
+   </td>
+   <td><a href="https://anitab.org/">AnitaB.org</a>
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>10
+   </td>
+   <td><a href="https://github.com/django/django/">Django</a>
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>11
+   </td>
+   <td><a href="https://github.com/publiclab">PublicLab</a>
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>12
+   </td>
+   <td><a href="https://github.com/EddieJaoudeCommunity">EddieJaoudeCommunity</a>
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>13
+   </td>
+   <td><a href="https://github.com/hngi/Barber-shop_Team-c_envarto_JL">HNG Internship</a>
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>14
+   </td>
+   <td><a href="https://github.com/Stewart86/roadtaxTracker">RoadtaxTracker</a>
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>15
+   </td>
+   <td><a href="https://github.com/jorgegonzalez/beginner-projects">Beginner Projects</a>
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>16
+   </td>
+   <td><a href="https://github.com/fbdevelopercircles/FbDevcCommunityContent">FbDevcCommunityContent</a>
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>17
+   </td>
+   <td><a href="https://github.com/zzavidd/woke">WOKE</a>
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>18
+   </td>
+   <td><a href="https://github.com/Ashish-Kenjale/DodgeCorona">DodgeCorona</a>
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>19
+   </td>
+   <td><a href="https://github.com/IFSP-PW4">IFSP-PW4</a>
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>20
+   </td>
+   <td><a href="https://github.com/OperationCode">Operation Code</a>
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>21
+   </td>
+   <td><a href="https://github.com/mautic/mautic-community-handbook">Mautic</a>
+   </td>
+   <td>1
+   </td>
+  </tr>
+</table>
